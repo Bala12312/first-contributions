@@ -34,6 +34,7 @@
 - [GokulnathUW](https://github.com/GokulnathUW)
 - Hello Developers , Dhruv Prajapati [Here](https://github.com/dhruvp66572) 👈
 - [Adarsh Bhayani](https://github.com/Adarsh-Bhayani)
+- [Bala](https://github.com/Bala12312)
   [Emmanson Effiong](https://github.com/Emmanson109)
   [Shirish](https://github.com/shirish1995)
 - [Chris Banas](https://github.com/chrisbanas)
